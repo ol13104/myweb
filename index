@@ -1,0 +1,40 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+  </head>
+  
+    <body>
+      <h1>Hello 😐</h1>
+<p><i  style="color:red;">Welcome to my website!</i></p>
+
+<p>My name is <span style="font-family: Arial">Oscar</span>.</p>
+<p>Movie to be watched:</p>
+    <img src="https://ol13104.github.io/132109-test/2026poster.webp" width="20%" title="Poster of Doraemon the Movie 2026" alt="Poster of Doraemon the Movie 2026" width="25%"> 
+<p>URL: <a href="hhttps://doraeiga.com/2026/">『映画ドラえもん 新・のび太の海底鬼岩城』公式サイト</a></p>
+  
+<p>Recently watched:</p>
+      <video width="320" height="240" controls>
+  <source src="https://www-ws.gov.taipei/001/Upload/439/relmovie/21696/9431083/3ebc42b5-768a-4a11-82d9-6a6a5c46a411.mp4?_=1" type="video/mp4">
+</video>
+      
+<br>
+<p>My favourite music:</p>
+   <audio controls>
+<source src="https://ol13104.github.io/132109-test/Doraemon%20-%20Doraemon%20no%20uta_default.mp3">
+   </audio>
+      <br><br>
+
+  <table>
+  <caption>Info</caption>
+    <tr style="color:green;">
+      <th><b>Date of publish</b></th>
+      <td>2026-02-23 18:55</td>
+    </tr>
+    <tr style="color:red;">
+      <td style="color:red;"><b><center>Recent update</center></b></td>
+<td>2026-02-23 19:01</td>
+    </tr>
+  </table>
+  </body>
+  
+</html>
